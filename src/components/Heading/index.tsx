@@ -1,4 +1,4 @@
-import styles from './Heading.module.css';
+import styles from './styles.module.css';
 
 // Desestrutração do Javascript, como eu sei que eu recebo um props eu posso pegar a variável que eu quero direto.
 
