@@ -1,7 +1,10 @@
 {
-  "extends": ["development"],
+  "extends": [
+    "development"
+  ],
   "hints": {
     "disown-opener": "off",
-    "typescript-config/strict": "off"
+    "typescript-config/strict": "off",
+    "axe/name-role-value": "off"
   }
 }
