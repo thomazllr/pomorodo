@@ -5,6 +5,7 @@
   "hints": {
     "disown-opener": "off",
     "typescript-config/strict": "off",
-    "axe/name-role-value": "off"
+    "axe/name-role-value": "off",
+    "axe/forms": "off"
   }
 }
